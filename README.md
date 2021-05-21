@@ -1,6 +1,11 @@
-# UI Design of compose-museum
+# Compose Museum UI Design
 
-![](compose-museum-banner.png)
+## Banner
+Light | Dark
+--- | --- |
+![](art/banner.png) | ![](art/banner-dark.png) 
 
 ## LOGO
-![](compose-museum-logo.png)
+Light | Dark
+--- | --- |
+![](art/logo.png) | ![](art/logo-dark.png) 
