@@ -1,15 +1,20 @@
 # Compose Museum UI Design
 
+
+## Logo
+Light | Dark
+--- | --- |
+![](art/logo.png) | ![](art/logo-dark.png)
+
+## Simple Logo
+Light | Dark | Transparent-Light | Transparent-Dark
+--- | --- | --- | --- |
+![](art/simple-logo.png) | ![](art/simple-logo-dark.png) | ![](art/simple-logo-transparent.png) | ![](art/simple-logo-transparent-dark.png) 
+
 ## Banner
 Light | Dark
 --- | --- |
 ![](art/banner.png) | ![](art/banner-dark.png) 
-
-## LOGO
-Light | Dark
---- | --- |
-![](art/logo.png) | ![](art/logo-dark.png) 
-
 
 ## Tutorial Banner
 Light | Dark
